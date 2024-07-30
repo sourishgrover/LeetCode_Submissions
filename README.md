@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
+| [0643-maximum-average-subarray-i](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
