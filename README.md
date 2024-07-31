@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -12,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
