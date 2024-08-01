@@ -21,6 +21,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1894-merge-strings-alternately) |
+| [2727-number-of-senior-citizens](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2727-number-of-senior-citizens](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
 | ------- |
