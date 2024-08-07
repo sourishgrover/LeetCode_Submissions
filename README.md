@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0443-string-compression) |
@@ -47,10 +48,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
