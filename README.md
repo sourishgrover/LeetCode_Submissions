@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0605-can-place-flowers](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
@@ -60,4 +62,8 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
