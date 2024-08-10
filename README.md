@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0605-can-place-flowers](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0605-can-place-flowers) |
@@ -48,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -78,4 +81,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
