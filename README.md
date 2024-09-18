@@ -38,6 +38,7 @@
 | [0011-container-with-most-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0605-can-place-flowers](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0605-can-place-flowers) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
