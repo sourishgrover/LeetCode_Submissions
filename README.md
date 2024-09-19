@@ -41,6 +41,7 @@
 | [0053-maximum-subarray](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -62,11 +63,13 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -122,4 +125,9 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
