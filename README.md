@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0050-powx-n) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
