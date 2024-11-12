@@ -40,6 +40,7 @@
 | [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0242-valid-anagram) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0073-set-matrix-zeroes) |
 ## Union Find
 |  |
 | ------- |
