@@ -47,6 +47,7 @@
 | [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/2727-number-of-senior-citizens) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Stack
 |  |
 | ------- |
