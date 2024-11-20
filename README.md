@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
@@ -95,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Stack
