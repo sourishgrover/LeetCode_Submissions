@@ -32,6 +32,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -64,6 +65,7 @@
 | [0053-maximum-subarray](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,4 +146,9 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
