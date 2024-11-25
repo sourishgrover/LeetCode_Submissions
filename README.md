@@ -32,6 +32,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
@@ -47,6 +48,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -74,12 +76,14 @@
 | [0128-longest-consecutive-sequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -100,6 +104,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Stack
 |  |
@@ -151,4 +156,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
