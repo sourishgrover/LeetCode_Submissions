@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -75,6 +76,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
