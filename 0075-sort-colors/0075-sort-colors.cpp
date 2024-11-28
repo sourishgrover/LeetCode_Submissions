@@ -3,9 +3,7 @@ public:
     void sortColors(vector<int>& nums) {
         int n = nums.size();
 
-        int zeros = 0;
-        int ones = 0;
-        int twos = 0;
+        int zeros = 0 ,ones = 0,twos = 0;
 
         for(int i = 0 ; i < n ; i++){
             if(nums[i]==0){
