@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0088-merge-sorted-array) |
@@ -44,6 +45,7 @@
 | [0001-two-sum](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
