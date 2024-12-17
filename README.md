@@ -32,6 +32,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/1894-merge-strings-alternately) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2727-number-of-senior-citizens](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sourishgrover/LeetCode_Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
